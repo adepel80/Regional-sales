@@ -128,6 +128,8 @@ This dashboard answers questions such as:
 
 ## 📊 Dashboard Preview
 
+<img width="1445" height="807" alt="Image" src="https://github.com/user-attachments/assets/e19fd5a4-cd87-4b00-818f-a7e877b636ce" />
+
 
 # Detailed Insights from the Hip-Hop Artist Performance Analysis
 
