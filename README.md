@@ -1,4 +1,7 @@
-# Hip-Hop Artist Performance Analysis | YouTube Analytics Dashboard
+# 7 Nigerian Hip-Hop Artist Performance Analysis | YouTube Analytics Dashboard
+
+## Featured Artiste
+1 Davido | Asake | Rema | Wizkid | Fola | Ayra Starr
 
 # Objective of the Analysis
 
@@ -50,4 +53,136 @@ The large differences between the highest-performing songs and the rest of the c
 
 ### Overall Business Insight: 
 Overall, the analysis demonstrates that YouTube performance among the selected hip-hop artists varies considerably across artists, songs, months, years, release days, and engagement metrics. The findings show that audience reach is concentrated among leading artists and highly successful songs, while content releases and engagement are particularly concentrated around Fridays and certain high-performing periods.
-Compare with AITOPIA
+
+
+# 🎵 Hip-Hop Artist Performance Analysis
+
+## 📊 YouTube Analytics Dashboard
+
+This project analyzes the YouTube performance of selected hip-hop artists using
+key performance indicators including views, likes, comments, subscribers,
+songs, release patterns, and artist collaborations.
+
+The project was developed to identify trends in audience engagement,
+content performance, artist reach, and music release patterns.
+
+---
+
+## 🎯 Project Objective
+
+The objective of this project is to analyze YouTube performance data and
+identify meaningful patterns across artists, songs, years, months, and
+days of the week.
+
+The analysis focuses on:
+
+- Total YouTube views
+- Total likes
+- Total comments
+- Total subscribers
+- Number of songs
+- Views by artist
+- Views by year
+- Comments by year
+- Songs released by weekday
+- Likes by weekday
+- Artist collaborations/features
+- Top-performing songs
+
+---
+
+## 🛠️ Tools Used
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+- Data Visualization
+- Data Cleaning
+- Data Analysis
+
+---
+
+## 📈 Key Performance Indicators
+
+| Metric | Value |
+|---|---:|
+| Total Views | 4.95B |
+| Total Likes | 41.89M |
+| Total Comments | 2.18M |
+| Total Subscribers | 22.29M |
+| Total Songs | 476 |
+
+---
+
+## 🔍 Key Insights
+
+### 1. Overall Performance
+
+The analyzed artists generated approximately 4.95 billion YouTube views,
+41.89 million likes, and 2.18 million comments.
+
+### 2. Subscriber Distribution
+
+Rema recorded approximately 5.7 million subscribers, followed by Davido
+with approximately 5.1 million.
+
+### 3. Artist Views
+
+Rema recorded approximately 1.2 billion views, followed by Ayra Star
+and Asake.
+
+### 4. Release Day
+
+Friday was the dominant release day, accounting for approximately half
+of the 476 songs in the dataset.
+
+### 5. Annual Performance
+
+2022 recorded the highest annual view volume, at approximately 1.58 billion
+views.
+
+### 6. Audience Engagement
+
+2022 also recorded the highest visible comment volume, with approximately
+1 million comments.
+
+### 7. Collaboration
+
+Davido recorded the highest number of featured appearances in the dataset,
+with approximately 60 features.
+
+### 8. Hit Songs
+
+A relatively small group of songs generated very high view counts,
+including Calm Down, Rush, Essence, Peru, and Charm.
+
+---
+
+## 💡 Business Questions
+
+This dashboard answers questions such as:
+
+1. Which artists have the largest subscriber bases?
+2. Which artists generate the highest number of views?
+3. Which years recorded the highest YouTube performance?
+4. Which months generated the most views?
+5. Which days are most commonly used for song releases?
+6. Which artists have the highest number of collaborations?
+7. Which songs generate the highest number of views?
+8. How does audience engagement vary over time?
+
+---
+
+## 📊 Dashboard Preview
+
+![Hip-Hop Artist Performance Dashboard](Dashboard/hip-hop-artist-performance-dashboard.png)
+
+---
+
+## 👨‍💻 Author
+
+**Emmanuel Adebayo**
+
+Data Analyst | Power BI | SQL | Excel | Python
+
